@@ -1,4 +1,1 @@
-# algorithm
-# LRU 缓存淘汰算法
-  ## 单链表实现
-  ## 散列表+双向链表实现
+[1](https://owl0214.github.io/)
